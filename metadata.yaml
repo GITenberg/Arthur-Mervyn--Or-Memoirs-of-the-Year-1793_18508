@@ -18,6 +18,8 @@ creator:
 description: "Arthur Mervyn is a novel written by Charles Brockden Brown and published\
   \ in 1799. It was one of Brown's more popular novels, and is in many ways representative\
   \ of Brown's dark, gothic style and subject matter.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18508#Arthur-Mervyn--Or-Memoirs-of-the-Year-1793
 gutenberg_issued: '2006-06-05'
 gutenberg_type: Text
 identifiers:
