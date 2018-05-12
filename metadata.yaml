@@ -1,0 +1,41 @@
+_repo: Arthur-Mervyn--Or-Memoirs-of-the-Year-1793_18508
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Charles Brockden
+    aliases:
+    - Brown, Brockden
+    - Brown, C. B. (Charles Brockden)
+    - Poplicola
+    birthdate: 1771
+    deathdate: 1810
+    gutenberg_agent_id: '416'
+    url: http://www.gutenberg.org/2009/agents/416
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Brockden_Brown
+description: "Arthur Mervyn is a novel written by Charles Brockden Brown and published\
+  \ in 1799. It was one of Brown's more popular novels, and is in many ways representative\
+  \ of Brown's dark, gothic style and subject matter.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18508'
+  wikidata: Q4799713
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Yellow fever -- Fiction'
+- !lcsh 'Philadelphia (Pa.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Murderers -- Fiction'
+title: Arthur Mervyn; Or, Memoirs of the Year 1793
+url: http://www.gutenberg.org/ebooks/18508
+wikipedia:
+- https://en.wikipedia.org/wiki/Arthur_Mervyn
